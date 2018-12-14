@@ -1,0 +1,16 @@
+*.class
+.idea/
+target/
+classes/
+*.iml
+bin/
+.classpath
+.gitignore*
+!/.gitignore
+.project
+org.eclipse.core.resources.prefs
+org.eclipse.jdt.core.prefs
+org.eclipse.m2e.core.prefs
+.settings
+.project
+rebel.xml
